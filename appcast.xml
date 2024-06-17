@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 1.0.8</title>
+            <description>Init upgrader</description>
+            <pubDate>Thu, 17 Jun 2024 14:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=stack.technology.stairling" sparkle:version="1.0.8" sparkle:os="android" />
+            <enclosure url="https://testflight.apple.com/" sparkle:version="1.0.8" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
